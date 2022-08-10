@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React and Frontend development**
 
-- 📫 How to reach me **sthapaliyaraj@gmail.com**
+- 📫 Reach me through **sthapaliyaraj@gmail.com**
 
 - ⚡ Fun fact **I Love 🎵 and ✈️**
 
