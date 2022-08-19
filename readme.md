@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👯 I’m looking to collaborate on **different Frontend Projects**
+- 👯 I’m looking forward to collaborating on **different Frontend Projects**
 
 - 💬 Ask me about **React and Frontend development**
 
