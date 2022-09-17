@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Sagar Raj Thapaliya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">Passionate frontend developer from Nepal</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🔭 I’m currently working with **MERN stack**
