@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working with **MERN stack**
 
-- 🌱 I’m currently building app with **React-Native**
+- 🌱 I am currently building app with **React-Native**
 
 - 👯 I’m looking forward to collaborating on **Frontend Projects**
 
